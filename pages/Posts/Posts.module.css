@@ -1,0 +1,20 @@
+.cardGroupInfo{
+    display: flex;
+    justify-content: center;
+    margin: 50px 0px ;
+}
+
+.cardInfo{
+    width: 40%;
+    background-color: white;
+    padding: 20px 60px 60px; 
+}
+
+.titleCard {
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.backToHome {
+    margin: 3rem 0 0;
+  }
